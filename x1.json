@@ -1,0 +1,75 @@
+
+
+// program starts with curly braces
+{
+
+// creating array of objects 
+// array called "events"
+"events": 
+	[
+
+		//object 1
+		// objects enclosed in curly braces
+		{
+			"location": "cork",
+			"date": "march 5",
+			"map":"image1.png"
+		}
+
+			// object 2
+			{
+				"location":"dublin",
+				"date":"april 25",
+				"map":"image2.png"
+			}
+
+				// object 3
+				{
+					"location":"limerick",
+					"date":"june 6",
+					"map":"image5.png"
+				}
+
+	// array closed
+	]
+
+
+/*
+	ALTERNATE METHOD: 
+
+	Method2: For Declaring Arrays
+
+		Difference:
+		1. writing the object in one line 
+		2. Separating the objects with comma
+
+			"events": 
+				[
+					//object 1
+					// objects enclosed in curly braces
+					{"location": "cork","date": "march 5","map":"image1.png"},
+
+					// object 2
+					{"location":"dublin","date":"april 25","map":"image2.png"},
+
+					// object 3
+					{"location":"limerick","date":"june 6","map":"image5.png"}
+
+				// array closed
+				]
+
+*/
+
+// program ends
+}
+
+
+
+
+
+
+
+
+
+
+
