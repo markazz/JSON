@@ -1,0 +1,48 @@
+
+
+// program starts with curly braces
+{
+
+// creating array of objects 
+// array called "events"
+"events": 
+	[
+
+		//object 1
+		// objects enclosed in curly braces
+		{
+			"location": "cork",
+			"date": "march 5",
+			"map":"image1.png"
+		}
+
+			// object 2
+			{
+				"location":"dublin",
+				"date":"april 25",
+				"map":"image2.png"
+			}
+
+				// object 3
+				{
+					"location":"limerick",
+					"date":"june 6",
+					"map":"image5.png"
+				}
+
+	// array closed
+	]
+
+// program ends
+}
+
+
+
+
+
+
+
+
+
+
+
